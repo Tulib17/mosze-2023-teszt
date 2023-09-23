@@ -23,5 +23,6 @@ int main()
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
     delete[] b;
+    std::cout << "Szia -Zsofi";
     return 0; //memoriaterulet nem szabadul fel
 }
